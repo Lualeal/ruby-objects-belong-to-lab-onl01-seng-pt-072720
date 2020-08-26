@@ -1,1 +1,2 @@
-class assert_instance_of
+class Artist 
+end 
